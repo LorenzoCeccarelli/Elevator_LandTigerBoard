@@ -29,4 +29,4 @@ Sono possibili due modi di utilizzo:
   * **Bottone di prenotazione**, se premuto permette di prenotare l'ascensore
   * 2 LEDs :
     * **Reserved LED** , si accende quando l'ascensore è occupato o prenotato con successo
-    * **Alarm LED*, si accende in caso di allarme
+    * **Alarm LED**, si accende in caso di allarme
