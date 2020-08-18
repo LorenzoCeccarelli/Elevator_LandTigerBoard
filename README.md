@@ -17,16 +17,4 @@ Sono possibili due modi di utilizzo:
 - Caricare il codice sorgente sulla scheda attraverso Keil
 - Cliccare su "Run"
 # Descrizione
-  Il sistema simula un ascensore per disabili ed è composto da due componenti principali: 
-  * **Controller** che è usato dall'utilizzatore per muovere l'ascensore
-  * **Due pannelli di richiesta** posti in due piani diversi
-  ## Controller
-  E' composto da :
-  * **Joystick** usato per manovrare l'ascensore
-  * **Led di stato** che fornisce un feedback visivo sullo stato dell'ascensore
-  ## Pannello di richiesta
-  Ogni pannello di richiesta è composto da :
-  * **Bottone di prenotazione**, se premuto permette di prenotare l'ascensore
-  * 2 LEDs :
-    * **Reserved LED** , si accende quando l'ascensore è occupato o prenotato con successo
-    * **Alarm LED**, si accende in caso di allarme
+  https://github.com/LorenzoCeccarelli/Elevator_LandTigerBoard/blob/master/descrizione.pdf
